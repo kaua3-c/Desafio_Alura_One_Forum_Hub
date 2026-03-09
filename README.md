@@ -277,7 +277,7 @@ Authorization: Bearer SEU_TOKEN
 ### 1. Clonar o repositório
 
 ```
-git clone https://github.com/seu-usuario/forumhub.git](https://github.com/kaua3-c/Desafio_Alura_One_Conversor_De_Moeda.git
+git clone https://github.com/kaua3-c/Desafio_Alura_One_Conversor_De_Moeda.git
 ```
 
 ### 2. Configurar o banco de dados
